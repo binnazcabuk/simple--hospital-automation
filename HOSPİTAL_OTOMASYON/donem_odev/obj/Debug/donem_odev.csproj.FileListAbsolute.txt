@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\bin\Debug\donem_odev.exe.config
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\obj\Debug\donem_odev.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\obj\Debug\donem_odev.Form1.resources
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\obj\Debug\donem_odev.hastaKayit.resources
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\obj\Debug\donem_odev.Properties.Resources.resources
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\obj\Debug\donem_odev.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\bin\Debug\donem_odev.exe
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\bin\Debug\donem_odev.pdb
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\obj\Debug\donem_odev.exe
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\obj\Debug\donem_odev.pdb
+C:\Users\ASUS\Desktop\veritabanıproje\donem_odev\donem_odev\obj\Debug\donem_odev.muayene.resources
